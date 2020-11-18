@@ -1,7 +1,7 @@
 # fogcloud_python
 Teste para Desenvolvedores Python
 
-# Dr Watson Bot
+#  ZdakaBot
 O projeto consiste em construir um bot para o Facebook Messenger ou Telegram que responda automaticamente mensagens direcionadas a ele com a lógica "Dr Watson".
 
 ## Sobre as tecnologias que devem ser usadas:
