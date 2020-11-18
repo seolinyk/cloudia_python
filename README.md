@@ -2,7 +2,7 @@
 Teste para Desenvolvedores Python
 
 #  ZdakaBot
-O projeto consiste em construir um bot para o Facebook Messenger ou Telegram que responda automaticamente mensagens direcionadas a ele com a lógica "Dr Watson".
+O projeto consiste em construir um bot para o Facebook Messenger ou Telegram que responda automaticamente mensagens direcionadas a ele com a lógica "".
 
 ## Sobre as tecnologias que devem ser usadas:
 - Flask como framework web da aplicação;
