@@ -1,8 +1,8 @@
 # fogcloud_python
 Teste para Desenvolvedores Python
 
-# Fizz Buzz Bot
-O projeto consiste em construir um bot para o Facebook Messenger ou Telegram que responda automaticamente mensagens direcionadas a ele com a lógica "Fizz Buzz".
+# Dr Watson Bot
+O projeto consiste em construir um bot para o Facebook Messenger ou Telegram que responda automaticamente mensagens direcionadas a ele com a lógica "Dr Watson".
 
 ## Sobre as tecnologias que devem ser usadas:
 - Flask como framework web da aplicação;
